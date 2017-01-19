@@ -1,0 +1,13 @@
+Yosef Siddiqui
+
+Todo List
+
+Instructions:
+
+
+1. Open Database
+2. Create a database
+3. Import into database and create the necessary tables
+4. Open up your localhost within your browser and access the index file 
+
+5. Run the program
